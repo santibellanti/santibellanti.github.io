@@ -10,7 +10,7 @@ body {
 }
 .wrapper {
     width: 400px;
-    margin-left: 300px;
+    margin: auto;
     border: black 3px solid;
     background-color: black;
 }
